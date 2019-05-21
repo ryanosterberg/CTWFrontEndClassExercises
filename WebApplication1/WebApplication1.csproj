@@ -68,6 +68,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="media.html" />
+    <Content Include="LifeNavigators.html" />
+    <Content Include="heroesForHealthcare.html" />
+    <Content Include="codeTheWay.html" />
     <Content Include="aboutMe.html" />
     <Content Include="index.html" />
     <Content Include="Web.config" />
